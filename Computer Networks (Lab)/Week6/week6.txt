@@ -1,0 +1,7 @@
+router> en enable
+router#config configure config terminal
+router(config)# int gigabitethernet/1   interface gig0/1
+router(config-if)# ip address [] []
+router(config-if)#no shutdown
+router(config-if)#exit
+
