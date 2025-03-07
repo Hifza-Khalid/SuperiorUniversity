@@ -85,6 +85,7 @@ This repository contains the lab work and project tasks for the **Computer Netwo
 
 ### **Title**:  
 **Campus Network Design** 🏫
+![Campus Network Design](https://github.com/Hifza-Khalid/SuperiorUniversity/blob/main/UniversityCampusNetwork/networkTopology.png)
 
 ### **Summary**:  
 The project involves designing and implementing a scalable, secure, and reliable wired network for a university campus using Cisco Packet Tracer. It focuses on hierarchical network design, VLAN segmentation, IP addressing, and routing protocols. 🔌
